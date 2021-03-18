@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicsumApp</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="toolbar_title">Picsum</string>
+</resources>
